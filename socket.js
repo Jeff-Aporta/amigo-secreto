@@ -34,7 +34,7 @@ module.exports = function (io, app) {
           },
           auth: {
             user: "no-reply-3@outlook.com",
-            pass: "pass123word.",
+            pass: "password",
           },
         });
         const correo_opns = {
